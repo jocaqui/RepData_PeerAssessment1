@@ -110,7 +110,7 @@ R/ Values do not differ. Imputation strategy slightly affected the mean but not 
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
-Dataset use was the one with imputed values.
+Dataset used was the one with imputed values.
 
 ### Factor variable in the dataset with two levels – “weekday” and “weekend”.  
 
